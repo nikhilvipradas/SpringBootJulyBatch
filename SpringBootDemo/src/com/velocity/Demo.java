@@ -8,11 +8,11 @@ public class Demo {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		List l = new ArrayList<>();
+		List<String>l = new ArrayList<>();
 		
-		l.add(20);
-		l.add(30);
-		l.add(40);
+		l.add("20");
+		l.add("30");
+		l.add("40");
 		
 		
 		System.out.println("List is >>"+l);
